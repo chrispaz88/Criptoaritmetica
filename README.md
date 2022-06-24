@@ -4,4 +4,9 @@ De forma Particula con las palabras: TWO + TWO = FOUR
 
 ![image](https://user-images.githubusercontent.com/43351303/175697313-30d8a810-5173-49b9-873b-473d2127cc00.png)
 
+Condiciones: 
+- Todas las correspondientes asignaciones númericas a los caracteres son diferentes
+- F != 0 
+- C3 = F
+
 
